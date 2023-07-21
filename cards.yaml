@@ -1,0 +1,53 @@
+equipment:
+  - spell:
+    - Divine Bill of Greed:
+        rarity: Uncommon
+        action_text: Draw two cards.
+        flavor_text: "The Divine Bill of Greed cannot be stopped once invoked." - Brother Cletus of the Order
+  - head:
+  - neck:
+  - shoulder:
+  - chest:
+  - waist:
+  - leg:
+  - wrist:
+  - hand:
+    - Tight Gloves:
+        rarity: Common
+        action_text: Can't be equipped if wearing any rings.
+        flavor_text: "Y'ever see a guy put a ring over a thick glove?" - Steven Stickler
+    - Loose Gloves:
+        rarity: Common
+        action_text: Can't equip more rings to any hands wearing these gloves.
+        flavor_text: "Definitely need to put the rings on first before these."
+  - finger:
+  - feet:
+      - toe:
+        - Toe Ring:
+            rarity: Uncommon
+            action_text: +1 to Sacred spells and abilities
+  - horse:
+combat:
+  - spell:
+  - attack:
+    - Punch:
+        rarity: Common
+        action_text: Deal 1 physical damage.
+        flavor_text: "A simple jab."
+    - Kick:
+        rarity: Common
+        action_text: Deal 2 physical damage.
+        flavor_text: "A hefty kick."
+  - weapon:
+    - Warrior's Blade:
+        rarity: Common
+        damage: 3
+        action_text: 
+        flavor_text: "Solid steel fit for any warrior."
+    - Shiny Shanking Shield:
+        rarity: Uncommon
+        damage: 3
+        action_text: |
+            +1 Armor
+            +1 Thorns
+        flavor_text: "Should surely shank shmucks."
