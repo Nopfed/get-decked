@@ -102,7 +102,7 @@ Different species are listed below and have varying equipment slots. Slot restri
 
 ## Elements
 
-Cards, equipment, species and effects may be elementally attuned. Elements come into play when interacting with other element types, such as Fire is weak against Water. Full element list can be found below as well as the matchup table. **TODO: add picture of element matchup table**
+Cards, equipment, species and effects may be elementally attuned. Elements come into play when interacting with other element types, such as Fire is weak against Water. Full element list can be found below as well as the matchup table.
 
 <details>
   <summary>Elements</summary>
@@ -121,7 +121,13 @@ Cards, equipment, species and effects may be elementally attuned. Elements come 
 
 </details>
 
-Elements can also be combined with other elements that form new combination element types, and are also treated as their base element types. For example, Water combined with Fire makes Steam, Shock and Holy makes Smite. The full table can be found below. If for whatever reason 3 elements were to be combined, they become the Null element. Any element mixed with Null becomes the non-Null element (Air combined with Null makes Air). Null combined with Null makes Null. Below is a table of the elemental combinations. **TODO: add picture of element combinations**
+![Element Matchups](https://github.com/Nopfed/get-decked/assets/15887241/4437306e-a0f0-46e5-823e-fa919364d1ef)
+
+
+Elements can also be combined with other elements that form new combination element types, and are also treated as their base element types. For example, Water combined with Fire makes Steam, Shock and Holy makes Smite. The full table can be found below. If for whatever reason 3 elements were to be combined, they become the Null element. Any element mixed with Null becomes the non-Null element (Air combined with Null makes Air). Null combined with Null makes Null. Below is a table of the elemental combinations. 
+
+![Elemental Combos](https://github.com/Nopfed/get-decked/assets/15887241/c141b6aa-aef3-42d1-8dfd-2718ec7fc234)
+
 
 ## Card Types
 
