@@ -104,23 +104,6 @@ Different species are listed below and have varying equipment slots. Slot restri
 
 Cards, equipment, species and effects may be elementally attuned. Elements come into play when interacting with other element types, such as Fire is weak against Water. Full element list can be found below as well as the matchup table.
 
-<details>
-  <summary>Elements</summary>
-  
-  - Earth
-  - Air  
-  - Fire
-  - Water
-  - Nature
-  - Shock
-  - Ice
-  - Holy
-  - Dark
-  - Arcane
-  - Null
-
-</details>
-
 ![Element Matchups](https://github.com/Nopfed/get-decked/assets/15887241/4437306e-a0f0-46e5-823e-fa919364d1ef)
 
 
