@@ -8,7 +8,7 @@ This game is intended to be fun, silly and fantastic. There is no rule that can'
 
 The main objective is to be the last player standing, fully equipped in gear.
 
-Choose a species to play as and build a deck around that species, perhaps themeing it around a certain type of character class (Warrior, Mage, Rogue, etc.). Species will differ in how they don their armor and weapons, such as requiring a different total number of items, multiple items of the same type, or some slots completely empty. In general, most classes start with the same basic setup of equipment slots, but they might be modified in some ways.
+Choose a species to play as and build a deck around that species, perhaps themed around a certain type of character class (Warrior, Mage, Rogue, etc.). Species will differ in how they don their armor and weapons, such as requiring a different total number of items, multiple items of the same type, or some slots completely empty. In general, most classes start with the same basic setup of equipment slots, but they might be modified in some ways.
 
 ## How to play
 
@@ -43,12 +43,12 @@ Only one piece of equipment can be equipped per turn and only during a player's 
 Different species are listed below and have varying equipment slots. Slot restrictions and extra slots are listed in parentheses (). Extra slots listed this way are not required to be filled to win.
 
 <details>
-  <summary>Human - Basic character option. Best for new players. Can wear pretty much everything any human could wear.</summary>
+  <summary>Human - Basic character option. Best for new players. Can wear pretty much everything any human could wear or hold.</summary>
   
   Class: Humanoid
 
   - Head (eyes, ears, nose, lips, face) (can also wear pants items on head)
-  - Neck (can wear any number of necklaces, but for each added necklace **TODO: some sort of hinderance goes here**)
+  - Neck 
   - Shoulders (can wear two different shoulder items at half the potency of their effects)
   - Chest (can wear multiple thin layers underneath armor)
   - Waist (same as neck slot)
@@ -66,19 +66,19 @@ Different species are listed below and have varying equipment slots. Slot restri
   Class: Cephalopod
   
   - Head (eyes, beak, face)
-  - Neck/Waist (can wear any number of necklaces, but for each added necklace **TODO: some sort of hinderance goes here**)
-  - Tentacle x8 (can wear and hold just about anything on a tentacle)
+  - Neck/Waist
+  - Tentacle x8 (Can hold/wear everything except helmets.)
 
 </details>
 
 <details>
-  <summary>Spider - Similar to the octopus, but has a hard time wearing necklaces and amulets. Has no hands.</summary>
+  <summary>Spider - Similar to the octopus, but can't equip any weapons. Has special attacks for fangs and stinger.</summary>
 
   Class: Arthropod
   
   - Head (fangs, face, eyes)
-  - Neck (Flip coin for each necklace worn. A result of 'Tails' causes the necklace to fall off)
-  - Leg x8 (Can wear anything, can't hold anything)
+  - Neck
+  - Leg x8 (Can wear anything except helmets, can't hold anything.)
 
 </details>
 
@@ -138,7 +138,7 @@ combat:
 
 Equipment cards mostly represent physical items that your character will wear/put on. There will also be utlity spells that interact with cards in your deck(s).
 
-Cards will be categorized under which slot that can be equipped, and any additional slots in which they can be equipped will be noted somewhere on the card. Below is an example.
+Cards will be categorized under which slot they can be equipped to, and any additional slots in which they can be equipped will be noted somewhere on the card. Below is an example.
 
 ```
 - hand:
