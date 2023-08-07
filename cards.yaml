@@ -45,21 +45,29 @@ combat:
         action_text: Choose an equipment an opponent is wearing. It falls to the ground.
         flavor_text: "'Ey, knock it off, will ya?"
         designer: nopfed
+    - Fire Blast:
+        power: Basic
+        action_text: Deal 2 fire damage.
+        flavor_text: "FIYA BLAAAAST!"
+        designer: nopfed
   - attack:
     - Punch:
         power: Basic
         action_text: Deal 1 physical damage.
         flavor_text: "A simple jab."
+        designer: nopfed
     - Kick:
         power: Basic
         action_text: Deal 2 physical damage.
         flavor_text: "A hefty kick."
+        designer: nopfed
   - weapon:
     - Warrior's Blade:
         power: Basic
         damage: 3
         action_text: 
         flavor_text: "Solid steel fit for any warrior."
+        designer: nopfed
     - Shiny Shanking Shield:
         power: Impactful
         damage: 3
@@ -67,6 +75,7 @@ combat:
             +1 Armor
             +1 Thorns
         flavor_text: "Should surely shank shmucks."
+        designer: nopfed
 chaos: # powerful random effects that drastically affect the state of normal play of the game.
   - spell: # spells are one time effects
   - enchantment: # enchantments are lasting magical effects that affect one or more players.
